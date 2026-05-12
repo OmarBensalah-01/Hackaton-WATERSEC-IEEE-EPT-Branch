@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data
+# Les fichiers CSV font partie du dataset de la compétition et doivent être suivis.
+*.tsv
+*.parquet
+
+# System files
+.DS_Store
+Thumbs.db
