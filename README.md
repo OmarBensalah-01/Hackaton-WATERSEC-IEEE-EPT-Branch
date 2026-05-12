@@ -119,7 +119,7 @@ Le notebook a été organisé pour séparer clairement la partie exploration des
 
 ---
 
-## 📊 Approches Techniques Détaillées
+## 📊 Approches Techniques 
 
 ### 1️⃣ **Nettoyage et Unification des Données**
 
@@ -143,7 +143,7 @@ def safe_parse_timestamp(series: pd.Series) -> pd.Series:
 
 ---
 
-### 2️⃣ **Feature Engineering Avancé**
+### 2️⃣ **Feature Engineering **
 
 #### Features Temporelles
 | Feature | Formule | Utilité |
